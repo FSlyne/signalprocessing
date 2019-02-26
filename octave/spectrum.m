@@ -1,4 +1,6 @@
 % Take 100Hz signal, amplitude modulate it with 2.5KHz, then run it through FFT
+% attributed to https://gist.github.com/akiatoji 
+
 clear ; close all; clc
 
 freq1 = 100; 
